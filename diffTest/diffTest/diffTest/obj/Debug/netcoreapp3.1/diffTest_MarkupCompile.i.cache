@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\App.xaml
-4-2065010114
+3-25885178
 
-101787858755
+91565581628
 193730638783
-MainWindow.xaml;Views\DiffViewer.xaml;Views\InternalLinesViewer.xaml;Views\SideBySideDiffViewer.xaml;
+MainWindow.xaml;Views\DiffViewer.xaml;Views\InternalLinesViewer.xaml;
 
-True
+False
 

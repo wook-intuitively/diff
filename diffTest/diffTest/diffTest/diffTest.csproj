@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\SideBySideDiffViewer.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="Views\SideBySideDiffViewer.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="DiffPlex">
       <HintPath>..\..\..\diffplex\DiffPlex\bin\Debug\net40\DiffPlex.dll</HintPath>
     </Reference>

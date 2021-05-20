@@ -2,7 +2,6 @@ C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\d
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\Views\DiffViewer.g.cs
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\Views\InternalLinesViewer.g.cs
-C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\Views\SideBySideDiffViewer.g.cs
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\diffTest_MarkupCompile.cache
@@ -19,7 +18,6 @@ C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\bin\Debug\netcoreapp3.1\D
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\MainWindow.baml
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\Views\DiffViewer.baml
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\Views\InternalLinesViewer.baml
-C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\Views\SideBySideDiffViewer.baml
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\diffTest.g.resources
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\diffTest.Resource.resources
 C:\Users\matth\Desktop\diff\diffTest\diffTest\diffTest\obj\Debug\netcoreapp3.1\diffTest.csproj.GenerateResource.cache
